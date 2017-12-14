@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">BookReview</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="write_your_">Write your book review request</string>
+    <string name="attach">Attach</string>
+    <string name="submit">Submit</string>
+    <string name="bookTitle">Book bookTitle</string>
+    <string name="book_cover">Book cover</string>
+    <string name="book_review_logo">book review logo</string>
+    <string name="user_email">user email</string>
+    <string name="delete">Delete</string>
+    <string name="ada_gmail_com">ada@gmail.com</string>
+    <string name="_123456">123456</string>
+    <string name="notification_channel_new_post">New Post Channel</string>
+    <string name="notification_channel_reply_to_post">Reply To Post Notification Channel</string>
+    <string name="new_post_title_notification">New Post</string>
+    <string name="new_post_added_notification_body">A soul requested a new book review!</string>
+    <string name="reply_title_notification">Reply</string>
+    <string name="reply_added_notification_body">A beautiful soul replied to your reviewRequest</string>
+    <string name="reviewRequestAuthor">Author</string>
+    <string name="reply">Reply</string>
+    <string name="title_activity_review_requests">Review Requests</string>
+    <string name="write_your_review_here">Write your review here</string>
+    <string name="book_review">Book Review</string>
+    <string name="review_thanks">Thank you for choosing to review this book</string>
+    <string name="hide">Hide</string>
+    <string name="cancel">Cancel</string>
+    <string name="request_camera">You should allow this application to use the camera</string>
+    <string name="permission_granted">Permission granted, yeeey!</string>
+    <string name="permission_denied">Permission not granted :(</string>
+    <string name="review_request_created">Review Request created</string>
+    <string name="view_replies">View Replies</string>
+    <string name="chill">Chill</string>
+    <string name="sajnos_no_replies">No Replies yet :( Sajnos</string>
+    <string name="author">by : </string>
+    <string name="replies"> Replies</string>
+    <string name="what_do_you_think_about_this_book">What do you think about this book</string>
+    <string name="book_title">Book : </string>
+    <string name="user_name">User Name</string>
+    <string name="create_activity_label">Write Your Review Request</string>
+    <string name="replies_activity_label">Replies to the Request</string>
+    <string name="okay_cool">That is okay</string>
+
+    <string-array name="names_array">
+        <item>Ethan</item>
+        <item>Mia</item>
+        <item>Mohamed</item>
+        <item>Fatima</item>
+        <item>Daniel</item>
+        <item>Luis</item>
+        <item>Tomás</item>
+        <item>Sofia</item>
+        <item>Camila</item>
+        <item>Somchai</item>
+        <item>Minato</item>
+        <item>Noam</item>
+        <item>Feng</item>
+        <item>Nor</item>
+        <item>Seo-yeon</item>
+        <item>Xioamei</item>
+        <item>Hugo</item>
+        <item>Jonas</item>
+        <item>Oliver</item>
+        <item>Francesco</item>
+        <item>Maxim</item>
+        <item>Yusuf</item>
+        <item>Laia</item>
+        <item>Emma</item>
+        <item>Angeliki</item>
+        <item>Zuzanna</item>
+        <item>Ioana</item>
+        <item>Zeynep</item>
+        <item>Hiro</item>
+        <item>Mareva</item>
+    </string-array>
+
+</resources>
